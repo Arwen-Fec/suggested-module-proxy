@@ -1,0 +1,24 @@
+#header {
+  width: 70%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.proxy-container {
+  display: flex;
+  width: 70%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.proxy-column1 {
+  width: 65%;
+}
+
+.proxy-column2 {
+  width: 35%;
+}
+
+#Carousel {
+  padding-bottom: 30px;
+}

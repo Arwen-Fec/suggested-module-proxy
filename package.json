@@ -1,0 +1,23 @@
+{
+  "name": "suggested-module-proxy",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Arwen-Fec/suggested-module-proxy.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Arwen-Fec/suggested-module-proxy/issues"
+  },
+  "homepage": "https://github.com/Arwen-Fec/suggested-module-proxy#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "http-proxy-middleware": "^1.0.3"
+  }
+}
